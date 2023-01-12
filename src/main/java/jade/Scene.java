@@ -1,7 +1,11 @@
 package jade;
 
-public abstract class Scene {
+abstract class Scene {
     public  Scene() {
+
+    }
+
+    public void init() {
 
     }
 

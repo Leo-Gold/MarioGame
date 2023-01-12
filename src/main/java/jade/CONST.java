@@ -11,4 +11,7 @@ public class CONST {
     public static double YPOS = 0.0;
     public static double LASTX = 0.0;
     public static double LASTY = 0.0;
+
+    public static  String VERTEX = "vertex";
+    public static  String FRAGMENT = "fragment";
 }
